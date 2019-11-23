@@ -1,0 +1,163 @@
+* {
+  max-width: 100%;
+}
+
+.card-img {
+  position: relative;
+  width: 100%;
+}
+
+.join-botton {
+  position: absolute;
+  left: 80.5%;
+}
+
+.nav-item {
+  padding: 0px 18px;
+}
+
+.navbar-brand {
+  padding: 0px 20px;
+}
+
+.form-control {
+  position: absolute;
+  width: 60%;
+  vertical-align: middle;
+  left: 20%;
+}
+
+.cover-text {
+  font-size: 3rem;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.container-fluid {
+  padding: 0% 0%;
+}
+
+.row {
+  margin: 0% 0%;
+}
+
+h1 {
+  width: 100%;
+  font-size: 2rem;
+}
+
+.col-lg-12 {
+  padding: 0% 0%;
+}
+
+.navbar {
+  padding: 0% 0%;
+}
+
+/* features and feature-box */
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  font-family: "Montserrat"
+}
+
+.icon {
+  color: #3fc5f0;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #42dee1;
+}
+
+/* testmonials */
+#testimonials {
+  text-align: center;
+  background-color: #e08f62;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+h2 {
+  font-family: "Montserrat-Bold";
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+
+em {
+  color: white;
+}
+
+.testimonial-img {
+  width: 80%;
+  height: 80%;
+  border-radius: 50%;
+  margin: 0.5%;
+}
+
+#press {
+  background-color: #e08f62;
+  text-align: center;
+  padding-bottom: 4%;
+}
+/* pricing section */
+#pricing {
+  padding: 1%;
+  text-align: center;
+}
+.press-logo {
+  width: 10%;
+  margin: 0% 2%;
+}
+.pricing-title {
+  font-family: Montserrat;
+  font-weight:bold;
+  font-size: 4rem;
+  line-height: 1.5;
+  color: black;
+}
+.pricing-sub{
+  font-family: Montserrat;
+  font-weight:bold;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: black;
+}
+.pricing-name {
+  font-family: Montserrat;
+  font-weight:bold;
+  font-size: 2rem;
+  line-height: 1.5;
+  color: black;
+}
+.pricing-col {
+  padding: 3% 2%;
+}
+/* cta */
+#cta {
+  background-color:#e08f62;
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+.cta-heading {
+  font-family:"Montserrat-black";
+  font-size: 3.5rem
+  line-height:1.5rem;
+}
+.download-button {
+  margin: 2% 2% 2% 0%;
+}
+#footer {
+  padding: 3% 15%;
+  text-align: center;
+}
+.social-icons {
+  margin: 2% 1%;
+}
